@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Gharib+ibn+Shaban;Front-End+Developer;Creative+Coder;Lifelong+Learner" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">💻 Front-End Developer | Passionate about Interactive Design</h3>
+<h3 align="center">💻 Developer | Passionate about Interactive Design</h3>
 
 ---
 
