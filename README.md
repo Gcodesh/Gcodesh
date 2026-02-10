@@ -27,7 +27,7 @@ I’m a **front-end developer** and a **Chemistry student at Al-Azhar University
 </p>
 ### ⚙️ Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,mysql,vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,js,php,mysql,vscode,git,github,figma" />
 </p>
 
 <p align="center">
