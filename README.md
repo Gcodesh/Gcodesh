@@ -1,33 +1,43 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Gharib+ibn+Shaban;Front-End+Developer;Creative+Coder;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Gharib+ibn+Shaban;Full+Stack+JavaScript+Developer;Node.js+%7C+React+Developer;Building+Scalable+Web+Apps" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">💻 Developer | Passionate about Interactive Design</h3>
+<h3 align="center">💻 Full Stack Developer | Backend Focused | Problem Solver</h3>
 
 ---
 
-
 ### 🧠 About Me  
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated-line.gif" width="70%" />
 </p>
 
-👋 Hey! I’m **Gharib ibn Shaban**, but you can call me **Gcodesh**.  
-I’m a **front-end developer** and a **Chemistry student at Al-Azhar University (Special Chemistry)**.  
+👋 Hey! I’m **Gharib ibn Shaban**, also known as **Gcodesh**.  
+I’m a **Full Stack JavaScript Developer** with a strong focus on **Backend development using Node.js**.  
 
-💻 I love turning ideas into smooth, interactive, and visually appealing web experiences using **HTML, CSS, JavaScript, and React**.  
-🎨 Alongside coding, I work with **Adobe tools** like Photoshop, Illustrator, and After Effects to design and animate creative visuals.  
-🧠 My background in chemistry taught me to think critically, analyze details, and build things step by step — skills that I now apply in web development.  
-🌱 I’m currently exploring **backend basics**, **AI in web design**, and how to create smarter, faster, and more dynamic digital interfaces.  
-⚡ Outside coding, you’ll find me experimenting with new tools, improving past projects, or learning something new every day.  
+💻 I build scalable web applications using:  
+- **Backend:** Node.js, Express, MongoDB  
+- **Frontend:** React, JavaScript, HTML, CSS, Tailwind  
+
+🧠 I have a solid understanding of **REST APIs, authentication, and database design**, and I enjoy working with real-world applications and improving existing codebases.  
+
+🎓 I’m also a **Chemistry student**, which helped me develop strong analytical and problem-solving skills.  
+
+🌱 Currently improving my skills in:  
+- Advanced Backend Architecture  
+- Performance Optimization  
+- Real-world Full Stack Applications  
+
+⚡ Always learning and building.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%" />
 </p>
-### ⚙️ Skills  
+
+---
+
+### ⚙️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,php,mysql,vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,html,css,tailwind,git,github" />
 </p>
 
 <p align="center">
@@ -36,13 +46,9 @@ I’m a **front-end developer** and a **Chemistry student at Al-Azhar University
 
 ---
 
-### 🎨 Adobe Skills  
+### 🧰 Tools & Workflow  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,xd,aftereffects,premiere" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,docker" />
 </p>
 
 ---
@@ -60,9 +66,10 @@ I’m a **front-end developer** and a **Chemistry student at Al-Azhar University
 ---
 
 ### 🚀 Featured Projects  
-- 🧩 **Interactive Dashboard** — Real-time data management with localStorage.  
-- 💼 **Portfolio Website** — A modern, responsive showcase of my work.  
-- 🛍️ **SBAW Store** — A multi-category e-commerce site with dynamic UI.  
+
+- 🔐 **Authentication API** — JWT-based login & register system  
+- 📝 **Blog API** — Full CRUD with users & posts  
+- 🛒 **E-commerce Backend** — Products, orders, scalable structure  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" />
@@ -70,22 +77,16 @@ I’m a **front-end developer** and a **Chemistry student at Al-Azhar University
 
 ---
 
-### 🌐 Social Media  
+### 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:ghshaban@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/abn-shaban-gharib-aa9163358">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/gharib-shaban-aa9163358">
+    <img src="https://img.shields.io/badge/LinkedIn-Gharib%20Shaban-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Gcodesh">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-  <a href="https://www.facebook.com/share/167i8vaZsd/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
-  </a>
-  <a href="https://wa.me/201024226583">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -96,12 +97,12 @@ I’m a **front-end developer** and a **Chemistry student at Al-Azhar University
 ---
 
 <p align="center">
-  ⚡ "Code with creativity. Build with purpose. Learn without limits."
+  ⚡ "Build real systems. Solve real problems. Grow every day."
 </p>
 
 ---
 
 ### 👀 Profile Views  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gcodesh&label=Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Gcodesh&label=Profile+Views&color=ff69b4&style=for-the-badge" />
 </p>
